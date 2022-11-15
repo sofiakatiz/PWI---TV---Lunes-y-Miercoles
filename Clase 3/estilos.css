@@ -1,0 +1,30 @@
+/*comentarios en CSS*/
+/* selectores*/
+
+p{
+    color:green
+    
+
+
+}
+
+
+/*selectores de clase*/
+
+.textoRojo{
+    color:red;
+
+
+}
+
+.letras{
+    color:blue;
+
+
+}
+
+
+#unTexto{
+    background-color:orange ;
+
+}
